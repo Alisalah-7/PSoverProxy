@@ -17,8 +17,9 @@ python3 portscanump.py
 ```
 
 ## Screenshots
-<img width="1918" height="822" alt="1" src="https://github.com/user-attachments/assets/0f7bc7d1-6449-44b9-b672-98878c4f15b9" />
-<img width="1918" height="823" alt="2" src="https://github.com/user-attachments/assets/dd7b1a2d-1a0d-466a-8826-026e503f219e" />
+| <img width="1918" height="822" alt="1" src="https://github.com/user-attachments/assets/0f7bc7d1-6449-44b9-b672-98878c4f15b9" /> |
+
+| <img width="1918" height="823" alt="2" src="https://github.com/user-attachments/assets/dd7b1a2d-1a0d-466a-8826-026e503f219e" /> |
 
 ## Files
 | File | Description |
